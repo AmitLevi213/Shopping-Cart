@@ -1,0 +1,3 @@
+# Shopping-Cart
+"Shopping Cart" project built with HTML5, CSS3 and JavaScript. this project is fully responsive for phones tablets etc...
+You simply press or add or delete item from the 4 items that Ive putted and there is an empty cart button.
